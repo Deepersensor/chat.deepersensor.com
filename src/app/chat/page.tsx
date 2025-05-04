@@ -1,5 +1,6 @@
+"use client";
+
 import { useState } from "react";
-import Image from "next/image";
 
 const dummyHistory = [
   { id: 1, title: "How does AI work?" },
