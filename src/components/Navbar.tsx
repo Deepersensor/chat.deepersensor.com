@@ -5,7 +5,7 @@ const Navbar = () => (
   <nav className="glass flex items-center justify-between px-8 py-4 mb-8 sticky top-0 z-30 shadow-lg backdrop-blur-lg">
     <div className="flex items-center gap-3">
       <Link href="/">
-        <Image src="/logo.png" alt="App Logo" width={40} height={40} className="rounded-full" />
+        <Image src="/logo.jpg" alt="App Logo" width={40} height={40} className="rounded-full" />
       </Link>
       <span className="gradient-text text-2xl font-bold tracking-tight">DeepSensor AI</span>
     </div>

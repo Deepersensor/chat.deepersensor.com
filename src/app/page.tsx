@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="flex flex-col items-center justify-center min-h-[80vh] gap-12">
       <section className="flex flex-col items-center gap-6 text-center">
-        <Image src="/logo.png" alt="App Logo" width={80} height={80} className="drop-shadow-xl" />
+        <Image src="/logo.jpg" alt="App Logo" width={80} height={80} className="drop-shadow-xl" />
         <h1 className="gradient-text text-5xl font-extrabold tracking-tight">Welcome to DeepSensor AI</h1>
         <p className="text-lg text-white/80 max-w-xl">
           The next-generation AI chat platform. Experience beautiful, seamless, and powerful conversations with state-of-the-art models. <br />

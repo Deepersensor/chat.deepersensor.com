@@ -4,7 +4,7 @@ export default function SignUpPage() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-[#0f2027] via-[#2c5364] to-[#232526]">
       <div className="glass p-8 md:p-12 w-full max-w-md flex flex-col items-center shadow-2xl">
-        <Image src="/logo.png" alt="Logo" width={64} height={64} className="mb-6" />
+        <Image src="/logo.jpg" alt="Logo" width={64} height={64} className="mb-6" />
         <h1 className="text-3xl font-bold gradient-text mb-2">Sign Up</h1>
         <p className="mb-8 text-center text-gray-400">Create your account to get started.</p>
         <form className="w-full flex flex-col gap-4">
